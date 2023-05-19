@@ -13,7 +13,3 @@
 [Laravel Vue Paginate](https://github.com/gilbitron/laravel-vue-pagination)
 
 [Laravel Vue Server Validate (Vform)](https://github.com/cretueusebiu/vform)
-
-# Created by
-Eric
-    
